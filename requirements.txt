@@ -1,4 +1,4 @@
-git+https://github.com/brianloveswords/python-jws.git#egg=jws-pss
+git+https://github.com/alex-hofsteede/python-jws.git
 pyvows>=2.0.4
 pylint
 pycrypto>=2.6
